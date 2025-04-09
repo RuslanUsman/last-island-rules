@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/last-island-rules/static/css/main.08ef8e53.css",
+    "main.js": "/last-island-rules/static/js/main.0823c0c7.js",
+    "static/js/488.b1de8747.chunk.js": "/last-island-rules/static/js/488.b1de8747.chunk.js",
+    "index.html": "/last-island-rules/index.html",
+    "main.08ef8e53.css.map": "/last-island-rules/static/css/main.08ef8e53.css.map",
+    "main.0823c0c7.js.map": "/last-island-rules/static/js/main.0823c0c7.js.map",
+    "488.b1de8747.chunk.js.map": "/last-island-rules/static/js/488.b1de8747.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.08ef8e53.css",
+    "static/js/main.0823c0c7.js"
+  ]
+}
